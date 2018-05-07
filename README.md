@@ -1,3 +1,4 @@
+可以自动挑选主题
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/quanshuin1/quanshuin1.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
